@@ -1,4 +1,4 @@
-# EIGENVALUES-AND-EIGENVECTORS
+# EIGENVALUES AND EIGENVECTORS
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
@@ -30,6 +30,7 @@ print("Eigen values are", eigenvalues,"and Eigen Vectors are",eigenvectors)
 
 ## Output:
 
+<img width="1261" height="940" alt="image" src="https://github.com/user-attachments/assets/cee7a8ec-f526-4311-aca5-d007b7e86a22" />
 <img width="1212" height="250" alt="image" src="https://github.com/user-attachments/assets/c90756d7-3fcf-497c-b141-78a6fe1d7f51" />
 
 ## Result:
